@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/musical-bpm-calc-ts/static/css/main.6029f48d.css",
+    "main.js": "/musical-bpm-calc-ts/static/js/main.f333df0e.js",
+    "index.html": "/musical-bpm-calc-ts/index.html",
+    "main.6029f48d.css.map": "/musical-bpm-calc-ts/static/css/main.6029f48d.css.map",
+    "main.f333df0e.js.map": "/musical-bpm-calc-ts/static/js/main.f333df0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6029f48d.css",
+    "static/js/main.f333df0e.js"
+  ]
+}
