@@ -1,0 +1,35 @@
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.list h3 {
+  font-size: 1.5rem;
+  margin: 5px;
+}
+
+.list div {
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  border: none;
+  background-color: transparent;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.faIcons {
+  font-size: 1.25rem;
+  padding: 0 12.5px;
+}
+
+.faIcons:active {
+  color: #0077b6;
+}
